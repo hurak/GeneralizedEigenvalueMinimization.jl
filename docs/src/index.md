@@ -11,7 +11,7 @@ Documentation for [GeneralizedEigenvalueMinimization](https://github.com/hurak/G
 ```math
 \begin{aligned}
 \mathrm{minimize} &\qquad \lambda\\
-\mathrm{subject to} &\qquad \lambda \boldsymbol B(\boldsymbol x) - \boldsymbol A(\boldsymbol x) \succeq \boldsymbol 0,\\
+\text{subject to} &\qquad \lambda \boldsymbol B(\boldsymbol x) - \boldsymbol A(\boldsymbol x) \succeq \boldsymbol 0,\\
                     &\qquad \boldsymbol B(\boldsymbol x) \succeq \boldsymbol0,\\
                     &\qquad \boldsymbol C(\boldsymbol x) \succeq \boldsymbol 0,
 \end{aligned}
