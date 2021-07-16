@@ -3,6 +3,10 @@ uuid = "07676b6a-b759-46e4-8c95-189815504c5c"
 authors = ["Zdeněk Hurák <hurak@fel.cvut.cz>"]
 version = "0.1.0"
 
+[deps]
+Convex = "f65535da-76fb-5f13-bab9-19810c17039a"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+
 [compat]
 julia = "1.6"
 
