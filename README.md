@@ -15,7 +15,7 @@ subject to              λB(x)-A(x)≻0
                         B(x)≻0
                         C(x)≻0
 
-where A(), B() and C() are affine functions of x.
+where A(), B() and C() are affine functions of x, and the interpretation of the inequalities is that the matrices on the left are positive definite.
 ```
 
 The package implements (or plans to implement) a few solution methods:
