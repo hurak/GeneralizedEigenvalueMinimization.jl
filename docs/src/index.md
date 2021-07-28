@@ -2,9 +2,9 @@
 CurrentModule = GeneralizedEigenvalueMinimization
 ```
 
-# GeneralizedEigenvalueMinimization
+# GeneralizedEigenvalueMinimization.jl
 
-Documentation for [GeneralizedEigenvalueMinimization](https://github.com/hurak/GeneralizedEigenvalueMinimization.jl) Julia package for minimizing the generalized eigenvalues.
+Documentation for [GeneralizedEigenvalueMinimization.jl](https://github.com/hurak/GeneralizedEigenvalueMinimization.jl) Julia package for minimizing the generalized eigenvalues.
 
 ## Problem statement
 

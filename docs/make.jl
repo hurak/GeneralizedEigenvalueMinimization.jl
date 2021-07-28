@@ -20,4 +20,5 @@ makedocs(;
 
 deploydocs(;
     repo="github.com/hurak/GeneralizedEigenvalueMinimization.jl",
+    devbranch="main",
 )
